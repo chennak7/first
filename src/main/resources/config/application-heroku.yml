@@ -12,7 +12,11 @@
 
 eureka:
     instance:
+<<<<<<< HEAD
         hostname: chennakesavan.herokuapp.com
+=======
+        hostname: great-big-example-application.herokuapp.com
+>>>>>>> 4f25131e59412bdcb2c2a9dafb4bcd7685d6a3d3
         non-secure-port: 80
         prefer-ip-address: false
     client:
